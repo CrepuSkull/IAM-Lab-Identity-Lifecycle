@@ -1,0 +1,4 @@
+EmployeeID,FirstName,LastName,Department,Location,JobTitle,Status
+E001,Jean,Dupont,Finance,Paris,Comptable,Active
+E002,Sarah,Lefebvre,IT,Lyon,Développeur,Active
+E003,Arnaud,Martin,RH,Paris,Gestionnaire,Active
